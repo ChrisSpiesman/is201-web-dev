@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(245, 231, 206);
+    color:rgb(98, 96, 96);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    h1{text-align: center;}
+    h2{text-decoration-line: underline;}
+}
+
+li{
+font-size: 19px;
+font-size: italic;
+font-weight: normal;
+}
+
+
+
